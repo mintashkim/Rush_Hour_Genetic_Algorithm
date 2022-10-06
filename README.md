@@ -4,7 +4,7 @@
 - Game explanation YouTube
 - https://youtu.be/HI0rlp7tiZ0
 
-###Short description
+### Short description
 - A number of cars are parked
 - Vertically parked cars can move only vertically
 - Horizontally parked cars can move only horizontally
